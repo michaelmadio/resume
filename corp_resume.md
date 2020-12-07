@@ -9,10 +9,32 @@ Multi-disciplined technology and thought leader with a demonstrated ability to e
 ### Business
 * Effective communicator at both executive and technical levels
 * Ability to quickly create excitement with others, establish credibility, and work collaboratively
-* Strong written, verbal, and presentation skills                                       |
-* Knowledge of current and evolving technology trends                                       |
-* Strategy development, proposal generation, business case development, cost/benefit/needs analysis, architecture development     
+* Strong written, verbal, and presentation skills
+* Knowledge of current and evolving technology trends
+* Strategy development, proposal generation, business case development, cost/benefit/needs analysis, architecture development
 
+### Technologies
+* Public Cloud - Azure, Google Cloud, Amazon Web Services
+* Automation - Infrastructure-as-Code, CI/CD pipelines - DevOps, GitOps, Terraform, Ansible, GitHub
+* Microservices - principles, architecture, design
+* Data - Databases, Big Data, AI, Machine Learning
+* Data Center
+* Operating systems - Linux (RedHat, Suse, Debian, Ubuntu), Microsoft, UNIX (Sun, HP, IBM)
+
+|
+|                |                                                    |
+|                | -   Virtualization -- VMware, Xen, Hyper-V, KVM,   |
+|                |     > Docker, Kubernetes                           |
+|                |                                                    |
+|                | -   Networks -- Cisco routers/switches, Ethernet,  |
+|                |     > IP, routing protocols                        |
+|                |                                                    |
+|                | -   Network security, firewalls, intrusion         |
+|                |     > detection and prevention systems             |
+|                |                                                    |
+|                | -   Application Delivery and Control               |
+|                |                                                    |
+|                | -   Systems management  
 
 Education
 ---------
@@ -31,44 +53,11 @@ Education
 
 
 
-**Michael Madio**
 
-[[michael\@madio.ca]{.ul}](mailto:michael@madio.ca) · 416-479-0425
-
-+----------------+----------------------------------------------------+
-| **OVERVIEW**   |                                                    |
-+================+====================================================+
-|                | Multi-disciplined technology and thought leader    |
-|                | with a demonstrated ability to earn trust and      |
-|                | influence others at both executive and technical   |
-|                | levels. Deep expertise in public cloud,            |
-|                | automation, applications, infrastructure, and      |
-|                | development. Ability to think creatively, think    |
-|                | quickly, and make rational decisions. Advocate of  |
-|                | open-source technologies and working smarter, not  |
-|                | harder.                                            |
 +----------------+----------------------------------------------------+
 | **SKILLS**     |                                                    |
 +----------------+----------------------------------------------------+
-|                | **[Business]{.ul}**                                |
-|                |                                                    |
-|                | -   Effective communicator at both executive and   |
-|                |     > technical levels                             |
-|                |                                                    |
-|                | -   Ability to quickly create excitement with      |
-|                |     > others, establish credibility, and work      |
-|                |     > collaboratively                              |
-|                |                                                    |
-|                | -   Strong written, verbal, and presentation       |
-|                |     > skills                                       |
-|                |                                                    |
-|                | -   Knowledge of current and evolving technology   |
-|                |     > trends                                       |
-|                |                                                    |
-|                | -   Strategy development, proposal generation,     |
-|                |     > business case development,                   |
-|                |     > cost/benefit/needs analysis, architecture    |
-|                |     > development                                  |
+
 +----------------+----------------------------------------------------+
 |                | **[Technologies]{.ul}**                            |
 |                |                                                    |
