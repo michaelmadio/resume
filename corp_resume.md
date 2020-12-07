@@ -142,3 +142,23 @@ Developed data center infrastructure and services for CGI customers.
   * Infrastructure and management systems - DNS, time, logging, directory services, configuration management
   * Developed custom device configuration management tool for various infrastructure elements
   * Architectural guidelines, policies and procedures, build/run books
+
+### Bell Canada (Nexxia) - Solutions Architect *(2000-2003)*
+Developed Internet infrastructure and services for Bell customers.
+* Architected, designed, and implemented next generation DNS services
+  * Created business case and executive level presentations
+  * Created business strategy, architecture, and design/engineering documents
+  * Deployed Lucent VitalQIP and migrated from disparate ISC BIND systems
+* Architected, designed, and implemented next generation firewall services
+  * Developed reference architecture for internal and external firewall services
+  * Created security best practices, capacity planning, and hardening documents
+  * Performed functional and performance testing - developed custom tools to exploit vulnerabilities and analyze system behaviour
+* Developed new Internet Data Center security architecture, design, and best practices
+  * Architecture to be used by services to ensure consistent security posture
+  * Evaluated various firewall, VPN, and intrusion detection products
+  * Developed supporting documents
+* Security Technologies Lead
+  * Worked with marketing groups to create and enhance security product and services portfolio
+  * Provided guidance and support to engineering and operations teams in installation and verification of new security technologies
+  * Developed security strategy including firewalls, virtual private networks, intrusion detection/prevention, risk assessment, and risk mitigation
+  * Performed vulnerability assessments and developed business cases for security improvements
