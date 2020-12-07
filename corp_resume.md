@@ -1,5 +1,6 @@
 # Michael Madio
 Toronto, Ontario, Canada
+
 michael@madio.ca / 416-479-0425 
 
 ## Overview
