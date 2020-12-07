@@ -109,3 +109,12 @@ Provided network infrastructure architecture, design, and engineering to support
 * Architected, designed, and implemented next-generation firewall infrastructure (Checkpoint, Cisco)
 * Architected, designed, and implemented next-generation web content and anti-virus infrastructure (Blue Coat)
 * Team Lead
+
+### INTRIA - Technology Consultant *(2007-2008)*
+Provided systems architecture, design, and engineering services for the CPA (Canadian Payments Association) TECP (Truncation and Electronic Cheque Presentment) project.
+* Designed and implemented network, security, and server (Windows, UNIX, Linux) infrastructure to support applications
+* Network and security infrastructure audit
+  * Reverse-engineered the network and security infrastructure
+  * Identified faults and weaknesses
+  * Quantified business risks
+  * Developed remediation plan with both tactical and strategic activities
