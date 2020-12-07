@@ -35,8 +35,8 @@ Technology leader and cloud/automation evangelist with a focus on architecture, 
 * Interfacing with the organization at both executive and technical levels
 * Trusted advisor to executives and other tech leaders
 * Demonstrated ability for bridging the gap between business and technology
-** Develop business outcomes and driving functional requirements
-** Demonstrated how modern compute (DevOps/Cloud) can deliver business outcomes
+  * Develop business outcomes and driving functional requirements
+  * Demonstrated how modern compute (DevOps/Cloud) can deliver business outcomes
 * Establish foundational architectural principles and strategy
 * Provide thought and technical leadership on Canadian Tire's journey to the cloud
 
