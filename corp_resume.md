@@ -2,7 +2,7 @@
 Toronto, Ontario, Canada / michael@madio.ca / 416-479-0425 
 
 ## Overview
-Multi-disciplined technology and thought leader with a demonstrated ability to earn trust and influence others at both executive and technical levels. Deep expertise in public cloud, automation, applications, infrastructure, anddevelopment. Ability to think creatively, think quickly, and make rational decisions. Advocate of open-source technologies and working smarter, not harder.
+Multi-disciplined technology and thought leader with a demonstrated ability to earn trust and influence others at both executive and technical levels.  Deep expertise in public cloud, automation, applications, infrastructure, and development.  Ability to think creatively, think quickly, and make rational decisions.  Advocate of open-source technologies and working smarter, not harder.
 
 ## Skills
 
@@ -19,48 +19,34 @@ Multi-disciplined technology and thought leader with a demonstrated ability to e
 * Microservices - principles, architecture, design
 * Data - Databases, Big Data, AI, Machine Learning
 * Data Center
-* Operating systems - Linux (RedHat, Suse, Debian, Ubuntu), Microsoft, UNIX (Sun, HP, IBM)
-* Virtualization -- VMware, Xen, Hyper-V, KVM, Docker, Kubernetes                           |
-* Networks -- Cisco routers/switches, Ethernet, IP, routing protocols                        |
-* Network security, firewalls, intrusion detection and prevention systems             |
+* Operating systems – , Linux (RedHat, Suse, Debian, Ubuntu), Microsoft, UNIX (Sun, HP, IBM)
+* Virtualization – VMware, Xen, Hyper-V, KVM, Docker, Kubernetes
+* Networks – Cisco routers/switches, Ethernet, IP, routing protocols
+* Network security, firewalls, intrusion detection and prevention systems
 * Application Delivery and Control
-* Systems management  
+* Systems management
 
 ## Experience
 
-### Canadian Tire - Principal Architect
-2020-Present
-
-Technology leader and cloud/automation evangelist with a focus on architecture, public cloud, and automation.                                        |
+### Canadian Tire - Principal Architect (2020-Present)
+Technology leader and cloud/automation evangelist with a focus on architecture, public cloud, and automation.
 * Interfacing with the organization at both executive and technical levels
 * Trusted advisor to executives and other tech leaders
 * Demonstrated ability for bridging the gap between business and technology
   * Develop business outcomes and driving functional requirements
-  * Demonstrated how modern compute (DevOps/Cloud) can deliver business outcomes
+  * Demonstrated how modern compute (DevOps / Cloud) can deliver business outcomes
 * Establish foundational architectural principles and strategy
-* Provide thought and technical leadership on Canadian Tire's journey to the cloud
+* Provide thought and technical leadership on Canadian Tire’s journey to the cloud
+  * Culture change
+  * Transformation
+  * New platforms and services - public cloud
+  * New tooling/approaches - DevOps, GitOps
+  * Big Data and Analytics - AI and Machine Learning
+  * Modernizing, re-factoring, and migrating workloads from on-prem to public cloud
+* Provide opinion/guidance on DevOps approaches, methodologies, and technologies
+* Provide opinion/guidance on Public Cloud architectures, methodologies, and technologies
 
-|                |                                                    |
-|                |     -   Culture change                             |
-|                |                                                    |
-|                |     -   Transformation                             |
-|                |                                                    |
-|                |     -   New platforms and services - public cloud  |
-|                |                                                    |
-|                |     -   New tooling/approaches - DevOps, GitOps    |
-|                |                                                    |
-|                |     -   Big Data and Analytics - AI and Machine    |
-|                |         > Learning                                 |
-|                |                                                    |
-|                |     -   Modernizing, re-factoring, and migrating   |
-|                |         > workloads from on-prem to public cloud   |
-|                |                                                    |
-|                | -   Provide opinion/guidance on DevOps approaches, |
-|                |     > methodologies, and technologies              |
-|                |                                                    |
-|                | -   Provide opinion/guidance on Public Cloud       |
-|                |     > architectures, methodologies, and            |
-|                |     > technologies   
+
 
 Education
 ---------
