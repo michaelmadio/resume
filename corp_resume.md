@@ -162,3 +162,21 @@ Developed Internet infrastructure and services for Bell customers.
   * Provided guidance and support to engineering and operations teams in installation and verification of new security technologies
   * Developed security strategy including firewalls, virtual private networks, intrusion detection/prevention, risk assessment, and risk mitigation
   * Performed vulnerability assessments and developed business cases for security improvements
+
+### OnX  - Technology Consultant *(1998-2000)*
+Provided consulting and engineering services for UNIX systems, storage, networks, and security.
+* UNIX performance troubleshooting and management for Canada’s largest courier
+  * Analysis and optimization of multi-tiered UNIX application and database server complex to ensure acceptable system response times
+  * Developed custom tools to collect, analyze, and summarize system performance data - reduced weekly executive report generation time from 1 full day to 30 minutes
+* Architected, designed, and implemented new managed web hosting infrastructure
+  * Carrier-grade multi-tiered redundant systems architecture with network security and application load-balancing
+  * Migration of high visibility clients from legacy to new infrastructure
+* Architected, designed, and implemented new web infrastructure for one of Canada's major banks
+  * Performed in-depth business and systems analysis to determine requirements, identify issues, and propose solutions
+  * Developed web site analysis tools to assess and optimize performance - reduced web page load time by more than 50%
+  * Migrated from a monolithic design to a modular, multi-tiered systems architecture
+  * Implemented redundant multi-site disaster recovery systems
+  * Assisted in Y2K planning and provided technical assistance during the transition period
+* Developed managed security services portfolio
+  * Worked with business development team to develop managed services offerings and delivery systems
+  * Designed and built managed firewall services
