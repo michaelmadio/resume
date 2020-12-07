@@ -93,3 +93,10 @@ Provided pre-sales engineering support for Cisco clients.
 * Understood customer’s business drivers and mapped those to technology solutions
 * Articulated the Cisco vision from the customer perspective and created unique, novel value propositions around Cisco solutions
 * Mentorship to junior systems engineers
+
+### Cisco Systems - Consulting Engineer *(2010-2011)*
+Provided data center consulting and engineering services to Cisco customers, specializing in servers, storage, and networks.
+* Utilized subject matter expertise in the areas of enterprise applications and data center infrastructure to evaluate complex, sensitive business problems and build data center solutions
+* Focused on Unified Computing System (UCS) and server virtualization, cloud computing, and data center infrastructure
+  * Specialized in UNIX/Linux, VMware, and automation
+* Design, implementation, and training services for customers
