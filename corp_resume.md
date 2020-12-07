@@ -26,6 +26,12 @@ Multi-disciplined technology and thought leader with a demonstrated ability to e
 * Application Delivery and Control
 * Systems management  
 
+## Experience
+
+### Canadian Tire - Principal Architect
+2020-Present
+
+
 Education
 ---------
 
@@ -44,44 +50,8 @@ Education
 
 
 
-+----------------+----------------------------------------------------+
-| **SKILLS**     |                                                    |
-+----------------+----------------------------------------------------+
 
-+----------------+----------------------------------------------------+
-|                | **[Technologies]{.ul}**                            |
-|                |                                                    |
-|                | -   Public Cloud - Azure, Google Cloud, Amazon Web |
-|                |     > Services                                     |
-|                |                                                    |
-|                | -   Automation - Infrastructure-as-Code, CI/CD     |
-|                |     > pipelines - DevOps, GitOps, Terraform,       |
-|                |     > Ansible, GitHub                              |
-|                |                                                    |
-|                | -   Microservices - principles, architecture,      |
-|                |     > design                                       |
-|                |                                                    |
-|                | -   Data - Databases, Big Data, AI, Machine        |
-|                |     > Learning                                     |
-|                |                                                    |
-|                | -   Data Center                                    |
-|                |                                                    |
-|                | -   Operating systems -- , Linux (RedHat, Suse,    |
-|                |     > Debian, Ubuntu), Microsoft, UNIX (Sun, HP,   |
-|                |     > IBM)                                         |
-|                |                                                    |
-|                | -   Virtualization -- VMware, Xen, Hyper-V, KVM,   |
-|                |     > Docker, Kubernetes                           |
-|                |                                                    |
-|                | -   Networks -- Cisco routers/switches, Ethernet,  |
-|                |     > IP, routing protocols                        |
-|                |                                                    |
-|                | -   Network security, firewalls, intrusion         |
-|                |     > detection and prevention systems             |
-|                |                                                    |
-|                | -   Application Delivery and Control               |
-|                |                                                    |
-|                | -   Systems management                             |
+
 +----------------+----------------------------------------------------+
 | **EXPERIENCE** |                                                    |
 +----------------+----------------------------------------------------+
