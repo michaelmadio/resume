@@ -28,7 +28,7 @@ Multi-disciplined technology and thought leader with a demonstrated ability to e
 
 ## Experience
 
-### Canadian Tire - Principal Architect (2020-Present)
+### Canadian Tire - Principal Architect *(2020-Present)*
 Technology leader and cloud/automation evangelist with a focus on architecture, public cloud, and automation.
 * Interfacing with the organization at both executive and technical levels
 * Trusted advisor to executives and other tech leaders
