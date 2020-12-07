@@ -2,7 +2,8 @@
 
 michael@madio.ca / 416-479-0425 / Toronto, Ontario, Canada
 
-Multi-disciplined technology and thought leader with a demonstrated ability to earn trust and influence others at both executive and technical levels. Deep expertise in public cloud, automation, applications, infrastructure, anddevelopment. Ability to think creatively, think quickly, and make rational decisions. Advocate of open-source technologies and working smarter, not harder.    
+## Overview
+Multi-disciplined technology and thought leader with a demonstrated ability to earn trust and influence others at both executive and technical levels. Deep expertise in public cloud, automation, applications, infrastructure, anddevelopment. Ability to think creatively, think quickly, and make rational decisions. Advocate of open-source technologies and working smarter, not harder.
 
 Education
 ---------
