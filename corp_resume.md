@@ -20,21 +20,11 @@ Multi-disciplined technology and thought leader with a demonstrated ability to e
 * Data - Databases, Big Data, AI, Machine Learning
 * Data Center
 * Operating systems - Linux (RedHat, Suse, Debian, Ubuntu), Microsoft, UNIX (Sun, HP, IBM)
-
-|
-|                |                                                    |
-|                | -   Virtualization -- VMware, Xen, Hyper-V, KVM,   |
-|                |     > Docker, Kubernetes                           |
-|                |                                                    |
-|                | -   Networks -- Cisco routers/switches, Ethernet,  |
-|                |     > IP, routing protocols                        |
-|                |                                                    |
-|                | -   Network security, firewalls, intrusion         |
-|                |     > detection and prevention systems             |
-|                |                                                    |
-|                | -   Application Delivery and Control               |
-|                |                                                    |
-|                | -   Systems management  
+* Virtualization -- VMware, Xen, Hyper-V, KVM, Docker, Kubernetes                           |
+* Networks -- Cisco routers/switches, Ethernet, IP, routing protocols                        |
+* Network security, firewalls, intrusion detection and prevention systems             |
+* Application Delivery and Control
+* Systems management  
 
 Education
 ---------
