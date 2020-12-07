@@ -100,3 +100,12 @@ Provided data center consulting and engineering services to Cisco customers, spe
 * Focused on Unified Computing System (UCS) and server virtualization, cloud computing, and data center infrastructure
   * Specialized in UNIX/Linux, VMware, and automation
 * Design, implementation, and training services for customers
+
+### CIBC - Technology Consultant *(2008-2010)*
+Provided network infrastructure architecture, design, and engineering to support banking applications.
+* Architected, designed, and implemented next-generation DNS and DHCP infrastructure (Microsoft, Infoblox)
+  * In-sourced external DNS services onto new infrastructure
+  * Consolidated internal DNS and DHCP services
+* Architected, designed, and implemented next-generation firewall infrastructure (Checkpoint, Cisco)
+* Architected, designed, and implemented next-generation web content and anti-virus infrastructure (Blue Coat)
+* Team Lead
