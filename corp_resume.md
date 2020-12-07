@@ -180,3 +180,10 @@ Provided consulting and engineering services for UNIX systems, storage, networks
 * Developed managed security services portfolio
   * Worked with business development team to develop managed services offerings and delivery systems
   * Designed and built managed firewall services
+
+### IBM - Support Analyst *(1995-1998)*
+Provided customer technical support and team leadership for desktop, messaging, and collaboration products.
+* Designed and built lab for Canadian product support team
+* Developed and delivered training on TCP/IP, Internet mail, and MS Windows desktop and server
+* Developed and delivered new hire "boot camp" training
+* Developed scheduling tool to integrate phone shifts with individual calendars
