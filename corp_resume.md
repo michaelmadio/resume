@@ -125,3 +125,20 @@ Provided technology architecture and engineering for a major Canadian banking cl
 * Subject matter expert for application and content networking
 * Created detailed business cases and proposals, delivered executive level presentations
 * Architected, engineered, and deployed next-generation resilient scalable Internet Services network
+
+### CGI - Technology Consultant *(2003-2005)*
+Developed data center infrastructure and services for CGI customers.
+* Lead architect for data centre infrastructure and services
+* Technical Chair for Design Review Board
+  * Ensured proposed solutions align with data center strategy
+  * Evaluated and critiqued proposed solutions and designs
+  * Ensured reliability, availability, and serviceability of solutions
+* Architected, designed, and implemented multi-site multi-tenant data center complex
+  * Managed a team to build a new environment and migrate customers
+  * Multi-tier high resiliency IP network
+  * Virtualized security services infrastructure
+  * Virtualized content switching infrastructure
+  * Virtualized server farm (VMware, Linux, Windows)
+  * Infrastructure and management systems - DNS, time, logging, directory services, configuration management
+  * Developed custom device configuration management tool for various infrastructure elements
+  * Architectural guidelines, policies and procedures, build/run books
