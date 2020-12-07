@@ -118,3 +118,10 @@ Provided systems architecture, design, and engineering services for the CPA (Can
   * Identified faults and weaknesses
   * Quantified business risks
   * Developed remediation plan with both tactical and strategic activities
+  
+### Hewlett-Packard - Technology Architect *(2005-2007)*
+Provided technology architecture and engineering for a major Canadian banking client.
+* Architect for data centre and Internet networks
+* Subject matter expert for application and content networking
+* Created detailed business cases and proposals, delivered executive level presentations
+* Architected, engineered, and deployed next-generation resilient scalable Internet Services network
