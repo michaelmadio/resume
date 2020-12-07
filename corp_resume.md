@@ -46,7 +46,41 @@ Technology leader and cloud/automation evangelist with a focus on architecture, 
 * Provide opinion/guidance on DevOps approaches, methodologies, and technologies
 * Provide opinion/guidance on Public Cloud architectures, methodologies, and technologies
 
+### Canadian Tire - Infrastructure Architect / DevOps Engineer *(2016-2020)*
+Technology leader with a focus on networks, automation, and public cloud.
 
+#### Cloud Architect / Engineer
+* Establish foundational infrastructure in Azure and GCP
+* Strategy for both legacy “lift and shift” and “next gen” workloads
+* Integration with on-prem infrastructure and tooling / processes
+* Architecture / Design / Deployment of Palo Alto and F5 platforms in Azure
+
+#### Lead network architect
+* Responsible for tactical and strategic direction
+* “Big Picture” view encompassing applications, public cloud, and security
+* Advisor to network architecture/engineering/delivery managers
+* Liaison between security and network teams
+* Evaluation of public cloud services
+* Stand up of public cloud network infrastructure
+* Lead NetDevOps engineer
+* Established code repository and framework to enable Infrastructure-as-Code
+* Built Linux automation servers to execute network automation
+* Built distributed command-and-control nodes (customized Linux) to actively measure systems and network performance
+* Built log collection/analysis Linux servers
+* Developed automation library to support day-to-day operations and provisioning
+* Automated tasks that would take months to execute so they complete in hours
+* Architected/Implemented
+* IPv6
+* Next-Gen Internet Complex - BGP, “always-on”
+* Next-Gen Data Center - BGP, Cisco ACI
+* Next-Gen Campus - BGP, security Zero-Trust
+* Next-Gen Wide Area Network - BGP, sub-second recovery
+* Next-Gen Cloud Interconnect - multi-site resilient connectivity to Azure and GCP
+* Next-Gen SaaS Connectivity - MS Office 365
+* Next-Gen Firewall Architecture - Multi-zone, active/active, dynamic routing
+* Infoblox DDI - External DNS, Internal DNS, DHCP, IPAM
+* Logging for networks - SumoLogic
+* Metrics reporting and visualization with Datadog
 
 Education
 ---------
