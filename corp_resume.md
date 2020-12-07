@@ -83,3 +83,13 @@ Technology leader with a focus on networks, automation, and public cloud.
 * Infoblox DDI - External DNS, Internal DNS, DHCP, IPAM
 * Logging for networks - SumoLogic
 * Metrics reporting and visualization with Datadog
+
+### Cisco Systems - Systems Engineer *(2011-2016)*
+Provided pre-sales engineering support for Cisco clients.
+* Developed relationships and established credibility with customers and key stakeholders
+* Technical advisor to customers and account teams
+* Developed solutions and articulated the benefits of Cisco solutions
+* Understood customer's business and demonstrated rationalization of technology investment
+* Understood customer’s business drivers and mapped those to technology solutions
+* Articulated the Cisco vision from the customer perspective and created unique, novel value propositions around Cisco solutions
+* Mentorship to junior systems engineers
