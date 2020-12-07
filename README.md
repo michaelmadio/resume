@@ -1,4 +1,4 @@
 # Michael Madio
 Toronto, Ontario, Canada
 
-[Corporate Resume](corp_resume.md)
+[Corporate Resume](michael_madio-corp_resume.md)
