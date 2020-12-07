@@ -62,14 +62,16 @@ Technology leader with a focus on networks, automation, and public cloud.
 * Liaison between security and network teams
 * Evaluation of public cloud services
 * Stand up of public cloud network infrastructure
-* Lead NetDevOps engineer
+
+#### Lead NetDevOps engineer
 * Established code repository and framework to enable Infrastructure-as-Code
 * Built Linux automation servers to execute network automation
 * Built distributed command-and-control nodes (customized Linux) to actively measure systems and network performance
 * Built log collection/analysis Linux servers
 * Developed automation library to support day-to-day operations and provisioning
 * Automated tasks that would take months to execute so they complete in hours
-* Architected/Implemented
+
+#### Architected/Implemented
 * IPv6
 * Next-Gen Internet Complex - BGP, “always-on”
 * Next-Gen Data Center - BGP, Cisco ACI
@@ -81,6 +83,7 @@ Technology leader with a focus on networks, automation, and public cloud.
 * Infoblox DDI - External DNS, Internal DNS, DHCP, IPAM
 * Logging for networks - SumoLogic
 * Metrics reporting and visualization with Datadog
+
 
 Education
 ---------
