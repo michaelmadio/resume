@@ -1,10 +1,9 @@
 Michael Madio
 =============
 
--------------------     ----------------------------
-Toronto, Ontario                    michael@madio.ca
-Canada                                  416-479-0425
--------------------     ----------------------------
+-------------------------------
+michael@madio.ca / 416-479-0425
+Toronto, Ontario, Canada
 
 Education
 ---------
