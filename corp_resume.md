@@ -1,3 +1,28 @@
+Michael Madio
+=============
+
+-------------------     ----------------------------
+Toronto, Ontario                    michael@madio.ca
+Canada                                  416-479-0425
+-------------------     ----------------------------
+
+Education
+---------
+
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
+
+    *Minor: Awesomeology*
+
+
+
 **Michael Madio**
 
 [[michael\@madio.ca]{.ul}](mailto:michael@madio.ca) · 416-479-0425
